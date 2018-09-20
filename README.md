@@ -13,8 +13,11 @@ This is *not* a machine learning or deep learning introductory course. Although 
 ## Course Specifics
 
 Instructor:
+
 Contact:
+
 Hours:
+
 Location:
 
 ## Prerequisites
@@ -35,7 +38,7 @@ Classification, Regression, Loss Function, Training/Testing, Cross-validation
 
 
 [keywords]
-Backpropagation, Fully Connected Networks, Convolutional Neural Networks, Recurrent Neural Networks
+Backpropagation, Fully Connected Networks, Convolutional Neural Networks, Recurrent Neural Networks, Generative Adversarial Networks, Reinforcement Learning (?)
 
 ### Lecture 3 - Deep Learning Tools
 
@@ -62,5 +65,12 @@ A case study of: identify a real world problem, collect data, design models, tra
 
 ### One-on-one Analysis
 
+Sign-up sheet? Apointment? Walk-in?
 
 ## References
+
+MIT 6.S191: Introduction to Deep Learning [link](http://introtodeeplearning.com/)
+
+Stanford CS231n: Convolutional Neural Networks for Visual Recognition [link](http://cs231n.stanford.edu/)
+
+Coursera Introduction to Deep Learning [link](https://www.coursera.org/learn/intro-to-deep-learning)
