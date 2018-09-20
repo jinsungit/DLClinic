@@ -69,6 +69,9 @@ A case study of: identify a real world problem, collect data, design models, tra
 
 Sign-up sheet? Apointment? Walk-in?
 
+What if students come in to ask help for homeworks of another class?
+
+
 ## References
 
 MIT 6.S191: Introduction to Deep Learning [link](http://introtodeeplearning.com/)
