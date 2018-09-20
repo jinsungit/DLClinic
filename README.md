@@ -32,7 +32,7 @@ Basic machine learning concepts: training, testing, validation, optimization.
 
 ### Lecture 1 - Brief Introduction to Machine Learning
 
-Class Survey?
+Class Survey? Background, interested materials...
 
 [Keywords]
 Classification, Regression, Loss Function, Training/Testing, Cross-validation
