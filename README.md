@@ -45,7 +45,6 @@ Backpropagation, Fully Connected Networks, Convolutional Neural Networks, Recurr
 
 ### Lecture 3 - Deep Learning Tools
 
-[keywords]
 Setup a machine learning environment (virtual environment for python)
 
 [Pytorch](https://pytorch.org/tutorials/)
