@@ -5,9 +5,11 @@ This class provides an introduction to theories and techniques that are essentia
 
 After the fundamental materials, the instructor will have one-on-one analysis with students to help them tackle challenges in applying deep learning on real world problems, including: feasibility evaluation, modeling and task formulation, identify and design suitable network architectures, and practical guidance on training and turning neural network models.
 
-This course is designed for students who are eager to solve complex real world problems with powerful machine learning algorithms, yet have trouble in various stages of the process.
+### Who This Course Is For
 
-### What this course is not
+This course is designed for students who are eager to solve complex real world problems with powerful machine learning algorithms, yet have troubles in various stages of the process.
+
+### What This Course Is Not
 This is *not* a machine learning or deep learning introductory course. Although fundamental materials of those subjects are to be reviewed, they will be covered in a concise manner thus students are expected to already have basic understanding of machine learning concepts (See Prerequisites below for details).
 
 ## Course Specifics
