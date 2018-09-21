@@ -1,51 +1,69 @@
-# Deep Learning Clinic (DLC)
+# Deep Learning Clinic (DLC) Syllabus
 
 ## Course Description
-This class provides an introduction to theories and techniques that are essential in solving practical problems with deep learning.
+Welcome to the Deep Learning Clinic (DLC) 2018!
 
-After the fundamental materials, the instructor will have one-on-one analysis with students to help them tackle challenges in applying deep learning on real world problems, including: feasibility evaluation, modeling and task formulation, identify and design suitable network architectures, and practical guidance on training and turning neural network models.
 
-### Who This Course Is For
+### Who DLC Is For
 
-This course is designed for students who are eager to solve complex real world problems with powerful machine learning algorithms, yet have troubles in various stages of the process.
+This course is designed for students who are eager to solve complex real world problems with powerful machine learning algorithms, yet need advises and help in various stages of such process.
 
-### What This Course Is Not
+### What DLC Is About
+
+DLC contains two formats of a learning experience: a lecture session focuses on the essential knowledge to get started; and a lab session that provides hands-on exercises and feedback.
+
+The lectures provide a concise introduction to theories and techniques that are essential in solving practical problems with deep learning algorithms.
+
+In the lab session, students are encouraged to work on their own projects that using deep learning. The instructor will have one-on-one analysis with the students to help them tackle challenges raised, including: feasibility evaluation, modeling and task formulation, network architectures searching and designing, and practical guidance on training and tuning neural network models.
+
+### What DLC Is Not
 This is *not* a machine learning or deep learning introductory course. Although fundamental materials of those subjects are to be reviewed, they will be covered in a concise manner thus students are expected to already have basic understanding of machine learning concepts (See Prerequisites below for details).
 
 ## Course Specifics
 
-Instructor:
+#####Instructor:
+Jin Sun
 
-Contact:
+#####Contact:
+jinsunpro@gmail.com
 
-Hours:
+Please include the tag 'DLC' in the email subject.
 
-Location:
+#####Hours and Locations:
+
+Wed 8:30am-9:30am, Lab Session in Bloomberg 061
+
+Fri 8:30am-10am, Lecture Session in Bloomberg 081
+
+
 
 ## Prerequisites
-Basic machine learning concepts: training, testing, validation, optimization.
+Basic machine learning concepts including but not limited to: data representation (features, train/test sets, preprocessing), evaluation (cross-validation, performance measurement), optimization (gradient descent).
 
 
+## Lecture Plan (Dates are tentative)
+
+### 9/28 - Course Introduction
+
+Give detailed explanation about the syllabus and what students can expect from the course.
+
+Go through a simple learning problem (playground.tensorflow.org) to show students the essential steps in solving a machine learning problem.
+
+Class survey on students' background and interested topics.
+
+### 10/5 - Brief Introduction to Machine Learning
+
+A quick introduction/review of core machine learning concepts, including: supervised learning, unsupervised learning, classification, regression, loss function, performance evaluation metrics, and etc.
 
 
-## Course Plan
+### 10/12 - Brief Introduction to Deep Learning
 
-### Lecture 1 - Brief Introduction to Machine Learning
-
-Class Survey? Background, interested materials...
-
-[Keywords]
-Classification, Regression, Loss Function, Training/Testing, Cross-validation
-
-### Lecture 2 - Brief Introduction to Deep Learning
+A quick introduction/review of deep learning topics, including: optimization techniques, network structures (e.g., Fully Connected Nets, Convolutional Nets, Recurrent Nets), Generative Adversarial Networks, Reinforcement Learning, and etc.
 
 
-[keywords]
-Backpropagation, Fully Connected Networks, Convolutional Neural Networks, Recurrent Neural Networks, Generative Adversarial Networks, Reinforcement Learning (?)
+### 10/19 - Deep Learning Frameworks
 
-### Lecture 3 - Deep Learning Tools
-
-Setup a machine learning environment (virtual environment for python)
+Step-by-step introduction on how to setup a deep learning-ready computing environment and how to use popular frameworks and tools such as:
 
 [Pytorch](https://pytorch.org/tutorials/)
 
@@ -56,21 +74,33 @@ Setup a machine learning environment (virtual environment for python)
 [Tensorboard for visualization](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/04-utils/tensorboard)
 
 
-### Lecture 4 - Tricks and Techniques in Training Neural Networks
+### 10/26 - Data
 
-[keywords]
-Pre-processing, Post-processing, Learning Rate, Batch Size, Normalization, Depth of Networks, Different Architectures, Fine-Tuning
+Cover how to perform data related tasks such as collection, labeling, and verification.
 
-### Lecture 5 - Case Study
+Details on how to set up data labeling tasks on Amazon Mechanical Turks.
 
-A case study of: identify a real world problem, collect data, design models, training and deploy.
 
-### One-on-one Analysis
 
-Sign-up sheet? Apointment? Walk-in?
+### 11/2 - Tricks on Training Neural Networks
 
-What if students come in to ask help for homeworks of another class?
+Practical tricks on how to train a (good) neural network model, including: pre-processing, post-processing, learning rate, batch size, normalization, network depth, choice between architectures, fine-tuning, and etc.
 
+
+### 11/9 - Deep Learning in Real World: A Case Study
+
+A case study on how to: identify a real world problem, collect data, design models, train and evaluate.
+
+
+### 11/16 Real-World Ready Machine Learning Tools
+
+Introduce machine learning tools that are widely used and proven to be effective in real-world problems, such as: Google Cloud Vision, AutoML for model search, Dlib, Face++ API for face detection, Detectron for object detection, NLTK for natural language processing, and etc.
+
+
+### 11/23 (Thanksgiving)
+
+
+### 11/30 Office Hours
 
 ## References
 
