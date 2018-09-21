@@ -51,17 +51,8 @@ Go through a simple learning problem (playground.tensorflow.org) to show student
 
 Class survey on students' background and interested topics.
 
-### 10/5 - Brief Introduction to Machine Learning
 
-A quick introduction/review of core machine learning concepts, including: supervised learning, unsupervised learning, classification, regression, loss function, performance evaluation metrics, and etc.
-
-
-### 10/12 - Brief Introduction to Deep Learning
-
-A quick introduction/review of deep learning topics, including: optimization techniques, network structures (e.g., Fully Connected Nets, Convolutional Nets, Recurrent Nets), Generative Adversarial Networks, Reinforcement Learning, and etc.
-
-
-### 10/19 - Deep Learning Frameworks
+### 10/5 - Deep Learning Frameworks
 
 Step-by-step introduction on how to setup a deep learning-ready computing environment and how to use popular frameworks and tools such as:
 
@@ -73,23 +64,37 @@ Step-by-step introduction on how to setup a deep learning-ready computing enviro
 
 [Tensorboard for visualization](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/04-utils/tensorboard)
 
+After this lecture, the students should have a working DL environment and be ready to explore the usage of these tools.
 
-### 10/26 - Data
+### 10/12 - Brief Introduction to Machine Learning
+
+A quick introduction/review of core machine learning concepts, including: supervised learning, unsupervised learning, classification, regression, loss function, performance evaluation metrics, and etc.
+
+
+### 10/19 - Brief Introduction to Deep Learning
+
+A quick introduction/review of deep learning topics, including: optimization techniques, network structures (e.g., Fully Connected Nets, Convolutional Nets, Recurrent Nets), Generative Adversarial Networks, Reinforcement Learning, and etc.
+
+
+
+### 10/26 - Deep Learning in Real World: A Case Study
+
+A case study on how to: identify a real world problem, collect data, design models, train and evaluate.
+
+
+
+### 11/2 - Data
 
 Cover how to perform data related tasks such as collection, labeling, and verification.
 
 Details on how to set up data labeling tasks on Amazon Mechanical Turks.
 
 
-
-### 11/2 - Tricks on Training Neural Networks
+### 11/9 - Tricks on Training Neural Networks
 
 Practical tricks on how to train a (good) neural network model, including: pre-processing, post-processing, learning rate, batch size, normalization, network depth, choice between architectures, fine-tuning, and etc.
 
 
-### 11/9 - Deep Learning in Real World: A Case Study
-
-A case study on how to: identify a real world problem, collect data, design models, train and evaluate.
 
 
 ### 11/16 Real-World Ready Machine Learning Tools
@@ -100,7 +105,7 @@ Introduce machine learning tools that are widely used and proven to be effective
 ### 11/23 (Thanksgiving)
 
 
-### 11/30 Office Hours
+### 11/30 No Lecture - Office Hours
 
 ## References
 
