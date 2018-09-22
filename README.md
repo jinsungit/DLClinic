@@ -22,17 +22,18 @@ In the lab session, students are encouraged to work on their own projects that u
 
 This is *not* a machine learning or deep learning introductory course. Although fundamental materials of those subjects are to be reviewed, they will be covered in a concise manner. Students who are unfamiliar with machine learning or deep learning are encouraged to read the Reference section below for a more comprehensive understanding of the relevant topics.
 
+.
+
 ---
 ## Course Specifics
 
-#####Instructor:
+#### Instructor:
 Jin Sun
 
-#####Contact:
-js2625@cornell.edu,
-Please include the tag 'DLC' in the email subject.
+#### Contact:
+js2625@cornell.edu *Please include the tag 'DLC' in the email subject.
 
-#####Hours and Locations:
+#### Hours and Locations:
 
 Wed 8:30am-9:30am, Lab Session in Bloomberg 061
 
@@ -42,14 +43,6 @@ Fri 8:30am-10am, Lecture Session in Bloomberg 081
 ## Lectures
 
 ### 9/28 - Course Introduction
-<!--
-Overview of the course and syllabus outlining what students can expect from the course.
-
-Exploration of a simple learning problem (http://playground.tensorflow.org) to show students the essential steps in solving a machine learning problem.
-
-Class survey on students' background and interested topics.
- -->
-
 
 Overview of the course and syllabus outlining what students can expect from the course.
 
@@ -58,19 +51,6 @@ Exploration of a simple learning problem [TensorFlow Playground](http://playgrou
 Class survey on students' background and interested topics.
 
 ### 10/5 - Deep Learning Frameworks
-
-<!-- Step-by-step introduction on how to set up a deep learning-ready computing environment and how and when to use popular frameworks and tools, including:
-
-[Pytorch](https://pytorch.org/tutorials/)
-
-[TensorFlow](https://www.tensorflow.org/tutorials/)
-
-[Keras](https://keras.io/)
-
-[Tensorboard for visualization](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/04-utils/tensorboard)
-
-After this lecture, the students should have a working DL environment and be ready to explore the usage of these tools. -->
-
 
 Step-by-step introduction on how to set up a deep learning-ready computing environment and how and when to use popular frameworks and tools, including:
 
@@ -107,14 +87,14 @@ Details on how to set up data labeling tasks on Amazon Mechanical Turks.
 
 Practical tips and tricks on how to train a (good) neural network model, including: pre-processing, post-processing, learning rate, batch size, normalization, network depth, choice between architectures, fine-tuning, and etc.
 
-### 11/16 Real-World Ready Machine Learning Tools
+### 11/16 - Real-World Ready Machine Learning Tools
 
 Introduce machine learning tools that are widely used and proven to be effective in real-world problems, such as: Google Cloud Vision, AutoML for model search, Dlib, Face++ API for face detection, Detectron for object detection, NLTK for natural language processing, and etc.
 
-### 11/23 (Thanksgiving, no class)
+### 11/23 - (Thanksgiving, no class)
 
 
-### 11/30 No Lecture - Office Hours
+### 11/30 - No Lecture - Office Hours
 
 ---
 
@@ -126,7 +106,6 @@ MIT 6.S191: Introduction to Deep Learning [link](http://introtodeeplearning.com/
 Stanford CS231n: Convolutional Neural Networks for Visual Recognition [link](http://cs231n.stanford.edu/)
 
 ### Free Textbooks
-A Course in Machine Learning by Hal Daume III
-[link](http://ciml.info/)
+A Course in Machine Learning by Hal Daume III [link](http://ciml.info/)
 
 Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville [link](https://www.deeplearningbook.org/)
